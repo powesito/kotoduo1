@@ -1,5 +1,7 @@
 # Kotoduo · Sistema de seguimiento de producción
 
+martin boudon estuvo a cargo con el front
+
 React (Vite) + Django REST Framework + MySQL 8 (SQLite en desarrollo). Basado en el Informe 2.
 
 ## Desarrollo
