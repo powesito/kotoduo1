@@ -10,7 +10,12 @@ martin boudon estuvo a cargo con el front
 
 joel hualla estuvo a cargo del backend y la base de datos 
 
-
+Desarrollo del backend utilizando Python y Django.
+Creación y configuración de la API REST.
+Conexión entre el sistema y la base de datos MySQL.
+Creación y administración de modelos y tablas.
+Implementación de operaciones para registrar, consultar, modificar y eliminar información.
+Apoyo en la autenticación y gestión de usuario
 
 
 
