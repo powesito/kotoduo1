@@ -8,6 +8,14 @@ martin boudon estuvo a cargo con el front
 - Validación visual y funcional de las interfaces.
 - Corrección de errores de navegación y presentación.
 
+joel hualla estuvo a cargo del backend y la base de datos 
+
+
+
+
+
+
+
 React (Vite) + Django REST Framework + MySQL 8 (SQLite en desarrollo). Basado en el Informe 2.
 
 ## Desarrollo
