@@ -1,6 +1,12 @@
 # Kotoduo · Sistema de seguimiento de producción
 
 martin boudon estuvo a cargo con el front
+- Desarrollo de interfaces utilizando React.
+- Diseño y organización de las pantallas del sistema.
+- Implementación de formularios y componentes visuales.
+- Integración del frontend con la API de Django.
+- Validación visual y funcional de las interfaces.
+- Corrección de errores de navegación y presentación.
 
 React (Vite) + Django REST Framework + MySQL 8 (SQLite en desarrollo). Basado en el Informe 2.
 
