@@ -1,0 +1,39 @@
+
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Django
+staticfiles/
+media/
+
+# Archivos temporales
+.cache/
+*.log
+
+# Bases de datos locales
+*.sqlite3
+*.db
+
+# React y Node
+node_modules/
+dist/
+build/
+
+# Editores
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
